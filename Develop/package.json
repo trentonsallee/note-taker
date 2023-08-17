@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "description": "Allos for Editing of a webpage using CRUD operations",
   "main": "server.js",
-  "directories": {
-    "Develop": "Develop",
-    "routes": "routes",
-    "Assets": "Assets",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Trenton Sallee",
   "license": "ISC",
-  "homepage": "https://github.com/Idjjurado/SVG-logo-maker#readme",
+  "homepage": "https://github.com/trentonsallee/note-taker",
   "bugs": {
     "url": "https://github.com/trentonsallee/note-taker/issues"
   },
